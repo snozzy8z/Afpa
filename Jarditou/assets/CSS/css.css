@@ -1,3 +1,54 @@
- {
-    font-size: 5vw;
+html {
+    background-color: brown;
+}
+
+#logo1 {
+    padding-left: 40%;
+    background-color: ;
+}
+
+#titre {
+    padding-left: 30%;
+    font-family: fantasy;
+    font-style: italic;
+    font-size: 4vw;
+}
+
+.menu {
+    padding-right: 10%;
+    padding-left: 10%;
+    font-size: 35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    color: black;
+}
+
+nav {
+    border: 3px solid black;
+    border-style: 10px;
+    text-align: center;
+    text-shadow: black;
+    background-color: seagreen;
+}
+#head{
+    background-image: url("../images/background-nav.jpg");
+    border: black;
+    border-radius: 10px;
+    
+}
+
+ul {
+    list-style:none;
+    margin-left:0;
+    padding-left:0;
+    }
+
+li {
+    margin-bottom:15px;/* à adapter */
+    text-align: center;
+}
+
+#promo {
+    border: 3px solid black;
+    border-radius: 3px;
 }
